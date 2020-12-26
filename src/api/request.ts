@@ -1,4 +1,5 @@
 import { URI } from '@/helper/url'
+const DOMAIN = 'https://wiki.watsonserve.com';
 /**
  * 一切request从这里开始
  */
@@ -91,7 +92,7 @@ export default function(options: RequestOptions): Promise<any> {
     if (Method.GET !== method && data) {
       rep.body = data;
     }
-    fetch(url, rep)
+    fetch(`${DOMAIN}${url}`, rep)
     .then(resp => {
       clearTimeout(timeHandle)
       if (!resp.ok) {
