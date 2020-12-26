@@ -1,0 +1,51 @@
+$titleRightPadding = 64px
+
+a.attention-card
+  display block
+  position relative
+  margin 0 auto
+  border-radius 4px
+  padding 10px 16px 12px
+  min-width 360px
+  height 168px
+  box-shadow 0 8px 18px 0 rgba(41, 104, 152, .26)
+  text-align left
+  color #333
+  background #fff
+
+  &:focus
+    text-decoration none
+
+  &:hover
+    color #333
+
+  .title
+    position relative
+    margin-bottom 6px
+    padding-right $titleRightPadding
+    width 100%
+    overflow hidden
+    white-space nowrap
+    text-overflow ellipsis
+
+    i, h4
+      font-size 18px
+      line-height 24px
+      vertical-align top
+
+    i.icon-font
+      color #5b6d95
+
+    h4
+      display inline-block
+      font-weight 600
+
+  p.update
+    margin-bottom 8px
+    color #92a0bf
+    font-size 12px
+
+  p.summary
+    margin-bottom 0
+    height 64px
+    overflow hidden
