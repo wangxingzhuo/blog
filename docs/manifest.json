@@ -1,25 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "main.js": "https://static-res.store/wiki/js/main.c1ac5e67.chunk.js",
+  "main.js.map": "https://static-res.store/wiki/js/main.c1ac5e67.chunk.js.map",
+  "runtime~main.js": "https://static-res.store/wiki/js/runtime~main.33ebf212.js",
+  "runtime~main.js.map": "https://static-res.store/wiki/js/runtime~main.33ebf212.js.map",
+  "styles.css": "https://static-res.store/wiki/css/styles.6a07ed6a.chunk.css",
+  "styles.js": "https://static-res.store/wiki/js/styles.21da0dfa.chunk.js",
+  "styles.js.map": "https://static-res.store/wiki/js/styles.21da0dfa.chunk.js.map",
+  "css/3.0d347162.chunk.css": "https://static-res.store/wiki/css/3.0d347162.chunk.css",
+  "js/3.d089b669.chunk.js": "https://static-res.store/wiki/js/3.d089b669.chunk.js",
+  "js/3.d089b669.chunk.js.map": "https://static-res.store/wiki/js/3.d089b669.chunk.js.map",
+  "css/3.0d347162.chunk.css.gz": "https://static-res.store/wiki/css/3.0d347162.chunk.css.gz",
+  "css/3.0d347162.chunk.css.map": "https://static-res.store/wiki/css/3.0d347162.chunk.css.map",
+  "css/styles.6a07ed6a.chunk.css.map": "https://static-res.store/wiki/css/styles.6a07ed6a.chunk.css.map",
+  "index.html": "https://static-res.store/wiki/index.html",
+  "js/3.d089b669.chunk.js.gz": "https://static-res.store/wiki/js/3.d089b669.chunk.js.gz",
+  "js/main.c1ac5e67.chunk.js.gz": "https://static-res.store/wiki/js/main.c1ac5e67.chunk.js.gz",
+  "precache-manifest.c04e1eae60a4f9c144c2c50a59ae8a0d.js": "https://static-res.store/wiki/precache-manifest.c04e1eae60a4f9c144c2c50a59ae8a0d.js",
+  "service-worker.js": "https://static-res.store/wiki/service-worker.js"
 }
